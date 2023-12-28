@@ -1,0 +1,1 @@
+main .ui_brd>.wrap>table{width:100%;table-layout:fixed}main .ui_brd>.wrap>table>tbody>tr{cursor:pointer}main .ui_brd>.wrap>table>tbody>tr>td>span.box{display:flex;justify-content:space-between}main .ui_brd>.wrap>table>tbody>tr>td>span.box span:last-child{flex:0 0 auto;text-align:right}main .ui_brd>.wrap>table>tbody>tr>td.is-no-over{cursor:default!important}
